@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swifttheme",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wxxsw/SwiftTheme",
+      "state" : {
+        "revision" : "f6a5442da8527f88e5b61b42131c003bd2d56803",
+        "version" : "0.6.4"
+      }
+    }
+  ],
+  "version" : 2
+}
