@@ -18,20 +18,20 @@ Swift e  BTK Akademiden Atıl SAMANCIOGLU Hocanın Swift ile IOS Programlama der
 
 # [Tahmin](https://github.com/suleymanyazici/Exercises/tree/main/Tahmin)
 
-<img src="Screenshot/1.png" width="250" /> <img src="Screenshot/2.png" width="250" /> <img src="Screenshot/3.png" width="250" /> <br>
+<img src="Screshot/1.png" width="250" /> <img src="Screshot/2.png" width="250" /> <img src="Screshot/3.png" width="250" /> <br>
 
 # [Contact](https://github.com/suleymanyazici/Exercises/tree/main/Contact)
 
-<img src="Screenshot/4.png" width="250" /> <img src="Screenshot/5.png" width="250" /> <img src="Screenshot/6.png" width="250" /> <br>
+<img src="Screshot/4.png" width="250" /> <img src="Screshot/5.png" width="250" /> <br>
 
 # [Film Sepetim](https://github.com/suleymanyazici/Exercises/tree/main/Film%20Sepetim)
 
-<img src="Screenshot/7.png" width="250" /> <br>
+<img src="Screshot/7.png" width="250" /> <br>
 
 # [StarApp](https://github.com/suleymanyazici/Exercises/tree/main/StarApp)
 
-<img src="Screenshot/13.png" width="250" /> <img src="Screenshot/14.png" width="250" /> <br>
+<img src="Screshot/13.png" width="250" /> <img src="Screshot/14.png" width="250" /> <br>
 
 # [Suratı Yakala](https://github.com/suleymanyazici/Exercises/tree/main/SuratiYakala)
 
-<img src="Screenshot/16.png" width="250" /> <img src="Screenshot/17.png" width="250" /> <img src="Screenshot/18.png" width="250" /> <br>
+<img src="Screshot/16.png" width="250" /> <img src="Screshot/17.png" width="250" /> <img src="Screshot/18.png" width="250" /> <br>
